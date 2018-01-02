@@ -1,1 +1,1 @@
-FROM deb http://apt.kubernetes.io/ kubernetes-xenial main
+FROM http://apt.kubernetes.io/ 
