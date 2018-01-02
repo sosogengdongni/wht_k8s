@@ -1,1 +1,1 @@
-FROM http://apt.kubernetes.io/ 
+FROM https://packages.cloud.google.com/apt/dists/cloud-sdk
