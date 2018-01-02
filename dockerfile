@@ -1,0 +1,1 @@
+FROM deb http://apt.kubernetes.io/ kubernetes-xenial main
