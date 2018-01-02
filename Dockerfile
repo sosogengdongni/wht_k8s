@@ -1,1 +1,1 @@
-FROM https://packages.cloud.google.com/apt/dists/cloud-sdk
+FROM https://packages.cloud.google.com/apt/dists
