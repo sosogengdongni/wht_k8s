@@ -1,1 +1,1 @@
-FROM https://packages.cloud.google.com/apt/dists
+FROM gcr.io/google_containers/kube-apiserver-amd64
